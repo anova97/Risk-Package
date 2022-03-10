@@ -1,0 +1,7 @@
+colnames(stopyEUR) <- c("date", "rate", "dailyReturnRate")
+stopyEUR<-read.csv("stopyEUR.csv")
+
+returnRateEUR <- stopyEUR
+
+save(returnRateEUR, file = "returnRateEUR.RData")
+

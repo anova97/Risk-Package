@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1646944449719.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8B0B50F2",
+    "lastKnownWriteTime" : 1646944442,
+    "last_content_update" : 1646944442,
+    "path" : "~/Desktop/studia/R basiura/Risk 2 2 2/man/Risk.Rd",
+    "project_path" : "man/Risk.Rd",
+    "properties" : {
+        "cursorPosition" : "2,11",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1646944456535.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EE4C6D1",
+    "lastKnownWriteTime" : 1646944474,
+    "last_content_update" : 1646944474,
+    "path" : "~/Desktop/studia/R basiura/Risk 2 2 2/man/returnRateEUR.Rd",
+    "project_path" : "man/returnRateEUR.Rd",
+    "properties" : {
+        "cursorPosition" : "5,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

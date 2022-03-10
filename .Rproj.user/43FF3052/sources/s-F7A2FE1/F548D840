@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1646935376277.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F548D840",
+    "lastKnownWriteTime" : 4611686018427387904,
+    "last_content_update" : 1646935376277,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "96133856",
+        "caption" : "stopyEUR",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=stopyEUR&cache_key=96133856",
+        "displayedObservations" : "1763",
+        "environment" : "",
+        "expression" : "stopyEUR",
+        "object" : "stopyEUR",
+        "preview" : "0",
+        "totalObservations" : "1763",
+        "variables" : "3"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

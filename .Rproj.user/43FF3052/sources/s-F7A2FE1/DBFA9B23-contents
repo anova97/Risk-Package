@@ -1,0 +1,12 @@
+Package: Risk
+Type: Package
+Title: Evaluation of VaR and ES
+Version: 1.0
+Author:  person("Jakub", "Augustynek", role = c("aut"))
+Maintainer: The package maintainer <j.augustynek97@gmail.com>
+Description: Pakiet zawiera funkcję do obliczania wartości VaR i ES. 
+Depends: R (>= 3.0.0)
+Imports: ggplot2, lubridate
+License: GPL-3
+Encoding: UTF-8
+RoxygenNote: 7.1.1

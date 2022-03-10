@@ -1,0 +1,24 @@
+\name{print.Risk}
+\alias{print.Risk}
+\title{Wartości VaR lub ES}
+\usage{
+print.Risk(x, ok, typ)
+}
+\arguments{
+\item{x}{data.frame, w którym znajdują się dzienne proste stopy zwrotu w kolumnie stopyDzienneProste}
+
+\item{ok}{długość okna czasowego}
+
+\item{typ}{rodzaj drukowanych wartości VaR lub ES}
+
+}
+\value{
+Funkcja printuje obliczone wartości VaR lub ES.
+}
+\description{
+Obliczanie dla danych stóp zwrotu wartości narażonej na ryzyko i oczekiwanej straty metodą historyczną, prezentowanie obliczonych wartości na wykresie.
+}
+\examples{
+###not run
+###print.Risk(x=stopyEuro, ok=500, typ="VaR")
+}
