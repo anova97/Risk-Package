@@ -63,7 +63,7 @@ Risk<-function(data, time){
 }
 
 
-#' Print calculated ccalues of VaR or ES
+#' Print calculated values of VaR or ES
 #'
 #' @param data A dataframe object with column dailyReturnRate
 #' @param time A number of time window.
